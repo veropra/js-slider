@@ -27,6 +27,6 @@ $(".prev").click(function(){
   }
 
   img_corrente.toggleClass("visible");
-  }
+  
 
 });
